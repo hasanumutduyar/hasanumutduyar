@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hasannduyarrr@gmail.com**
 
-- https://hasanumutduyar.netlify.app
+- My Portfolio [https://hasanumutduyar.netlify.app]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
